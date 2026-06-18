@@ -1,18 +1,10 @@
 # Men Stack CRUD App Lab
 A full-stack lab project for practicing CRUD operations with MongoDB, Express, and Node.js.
 
-## Screenshot/Logo
-Add a screenshot here.
-
 ## Description
 This project was built to practice creating a full-stack app with CRUD functionality using the MEN stack. It focuses on creating, reading, updating, and deleting data through routes, views, and a database.
 
 It was a useful way to improve my understanding of Express apps, MongoDB models, and how full-stack features connect together.
-
-## Deployment Link
-**Live App:**  
-Add your deployed link here if available.
-
 ## Planning
 Before building, the main focus was deciding how the data would be structured and how users would interact with it.
 
